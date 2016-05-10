@@ -1,0 +1,192 @@
+2014-12-01T16:57:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:57:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:57:56+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:58:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:58:15+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:58:15+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:59:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:59:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T16:59:30+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T17:00:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T17:00:08+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-01T17:00:08+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:20:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:20:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:20:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:20:03+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:20:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:20:03+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:21:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:21:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:21:47+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:22:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:22:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:22:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:36:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:36:46+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:36:46+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:37:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:37:16+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:37:16+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:39:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:39:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:39:19+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:39:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:39:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:39:37+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:41:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:41:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:41:49+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:44:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:44:36+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:44:36+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:46:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:46:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:46:05+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:47:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Extra content at the end of the document  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:47:34+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/xml&gt;  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T08:47:34+00:00 ERR (3): Warning: simplexml_load_string(): ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 14: parser error : Couldn't find end of Start Tag fr line 14  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():             &lt;fr  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 14: parser error : Premature end of data in tag args line 12  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():             &lt;fr  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 14: parser error : Premature end of data in tag matt_films line 10  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():             &lt;fr  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 14: parser error : Premature end of data in tag routers line 9  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():             &lt;fr  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 14: parser error : Premature end of data in tag frontend line 8  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():             &lt;fr  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 14: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():             &lt;fr  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:06:59+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Films line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string():               in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string():               in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string():               in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:07:58+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Films line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():               in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():               in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():               in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:08:30+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:31+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:32+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:12:40+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:13+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:26+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:13:31+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:13+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:14:49+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:15:04+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string():           in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:21:12+00:00 ERR (3): Warning: simplexml_load_string():         ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag Matt_Essai line 4  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string():            in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string():          ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag modules line 3  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string():            in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string():          ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 6: parser error : Premature end of data in tag config line 2  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string():            in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-12-02T09:23:54+00:00 ERR (3): Warning: simplexml_load_string():          ^  in C:\wamp\www\magento\lib\Varien\Simplexml\Config.php on line 510

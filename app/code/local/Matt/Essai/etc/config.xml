@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+  <config>
+     <modules>
+        <Matt_Essai>
+          <version>1.0.0</version>
+        </Matt_Essai>
+     </modules>
+     <frontend>
+       <routers>
+          <matt_essai>
+              <use>standard</use>
+              <args>
+                 <module>Matt_Essai</module>
+                 <frontName>essai</frontName>
+              </args>
+           </matt_essai>
+       </routers>
+    </frontend>
+</config>

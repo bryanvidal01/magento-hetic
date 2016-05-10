@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+   <config>
+      <modules>
+        <Matt_Films>
+            <active>true</active>
+            <codePool>local</codePool>
+         </Matt_Films>
+       </modules>
+    </config>
