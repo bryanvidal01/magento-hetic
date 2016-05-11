@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ *
+ * @category    Hetic
+ * @package     Hetic_Magento
+ * @copyright   Copyright (c) 2014 Hetic
+ * @author      Matthieu Demunck
+ */
+-->
+<config>
+    <modules>
+        <Hetic_Magento>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Hetic_Magento>
+    </modules>
+</config>

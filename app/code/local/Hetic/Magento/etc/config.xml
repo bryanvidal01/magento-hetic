@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!--
+ * @category    Hetic
+ * @package     Hetic_Magento
+ * @copyright   Copyright (c) 2016 Hetic
+ * @author      Matthieu Demunck
+ */
+-->
+<config>
+	<Hetic_Magento>
+		<version>1.0.0</version>
+	</Hetic_Magento>
+	<global>
+		<models>
+			<magento>
+				<class>Hetic_Magento_Model</class>
+			</magento>
+		</models>
+		<helpers>
+			<magento>
+				<class>Hetic_Magento_Helper</class>
+			</magento>
+		</helpers>
+		<ressources>
+			<magento_setup>
+				
+			</magento_setup>
+		</ressources>
+	</global>
+</config>
