@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!--
+ * @category    Hetic
+ * @package     Hetic_Magento
+ * @copyright   Copyright (c) 2016 Hetic
+ * @author      Matthieu Demunck
+ */
+-->
+<config>
+	<Hetic_CategoryList>
+		<version>1.0.0</version>
+	</Hetic_CategoryList>
+	<global>
+		<models>
+			<categorylist>
+				<class>Hetic_CategoryList_Model</class>
+			</categorylist>
+		</models>
+		<helpers>
+			<categorylist>
+				<class>Hetic_CategoryList_Helper</class>
+			</categorylist>
+		</helpers>
+	</global>
+</config>

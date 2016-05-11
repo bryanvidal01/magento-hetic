@@ -1,0 +1,37 @@
+<?php
+/*
+ * http://fishpig.co.uk - Magento Tutorials
+ *
+ * Display top level categories and subcategories
+ *
+**/
+?>
+<?php
+$_categories = Mage::getModel('catalog/category')
+        ->getCollection()
+        ->addAttributeToSelect('*')
+        ->addIsActiveFilter()
+        ->addUrlRewriteToResult();
+$_catalogCatgoryHelper = Mage::helper('catalog/category');
+?>
+<?php $currentCategory = Mage::registry('current_category') ?>
+<?php if (count($_categories) > 0): ?>
+	<ul>
+		<?php foreach($_categories as $_category): ?>
+				<?php $_category = Mage::getModel('catalog/category')->load($_category->getId()) ?>
+				<?php $_subcategories = $_category->getChildrenCategories() ?>
+				<?php if (count($_subcategories) > 0): ?>
+					<ul>
+						<?php foreach($_subcategories as $_subcategory): ?>
+							<li>
+								<a href="<?php echo $_subcategory->getUrl($_subcategory); ?>">
+									<?php echo $_subcategory->getName() ?>
+								</a>
+							</li>
+						<?php endforeach; ?>
+					</ul>
+				<?php endif; ?>
+		<?php endforeach; ?>
+	</ul>
+<?php endif; ?>
+toto

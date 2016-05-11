@@ -10,7 +10,7 @@
 <layout version="0.1.0">
 
 	<default>
-		     <remove name="currency" />
+		     <remove name="header" />
 	</default>
 
 </layout>
