@@ -1,10 +1,10 @@
 <?php
 /*
- * http://fishpig.co.uk - Magento Tutorials
- *
- * Display top level categories and subcategories
- *
-**/
+ * @category    Hetic
+ * @package     Hetic_Magento
+ * @copyright   Copyright (c) 2016 Hetic
+ * @author      Matthieu Demunck
+ */
 ?>
 <?php
 $_categories = Mage::getModel('catalog/category')
@@ -16,22 +16,20 @@ $_catalogCatgoryHelper = Mage::helper('catalog/category');
 ?>
 <?php $currentCategory = Mage::registry('current_category') ?>
 <?php if (count($_categories) > 0): ?>
-	<ul>
 		<?php foreach($_categories as $_category): ?>
 				<?php $_category = Mage::getModel('catalog/category')->load($_category->getId()) ?>
 				<?php $_subcategories = $_category->getChildrenCategories() ?>
 				<?php if (count($_subcategories) > 0): ?>
-					<ul>
 						<?php foreach($_subcategories as $_subcategory): ?>
-							<li>
-								<a href="<?php echo $_subcategory->getUrl($_subcategory); ?>">
-									<?php echo $_subcategory->getName() ?>
+							<div class="col-sm-4">
+								<a class="article" href="<?php echo $_subcategory->getUrl($_subcategory); ?>">
+									<?php echo $_subcategory->getImage() ?>
+									<div class="title-category">
+										<?php echo $_subcategory->getName() ?>
+									</div>
 								</a>
-							</li>
+							</div>
 						<?php endforeach; ?>
-					</ul>
 				<?php endif; ?>
 		<?php endforeach; ?>
-	</ul>
 <?php endif; ?>
-toto

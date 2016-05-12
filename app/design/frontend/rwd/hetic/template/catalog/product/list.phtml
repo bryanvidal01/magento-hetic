@@ -41,7 +41,7 @@
 <?php else: ?>
 <div class="category-products">
     <?php echo $this->getToolbarHtml() ?>
-    <?php // List mode ?>
+<!--     <?php // List mode ?>
     <?php if($this->getMode()!='grid'): ?>
     <?php $_iterator = 0; ?>
     <ol class="products-list" id="products-list">
@@ -110,7 +110,7 @@
     </ol>
     <script type="text/javascript">decorateList('products-list', 'none-recursive')</script>
 
-    <?php else: ?>
+    <?php else: ?> -->
 
     <?php // Grid Mode ?>
 
@@ -139,7 +139,7 @@
                         <?php echo $_nameAfterChild->toHtml(); ?>
                     <?php endforeach; ?>
 
-                    <?php echo $this->getPriceHtml($_product, true) ?>
+                    <?php echo "A partir de " . $this->getPriceHtml($_product, true) ?>
                     <?php if($_product->getRatingSummary()): ?>
                     <?php echo $this->getReviewsSummaryHtml($_product, 'short') ?>
                     <?php endif; ?>
@@ -151,14 +151,6 @@
                         <?php else: ?>
                             <p class="availability out-of-stock"><span><?php echo $this->__('Out of stock') ?></span></p>
                         <?php endif; ?>
-                        <ul class="add-to-links">
-                            <?php if ($this->helper('wishlist')->isAllow()) : ?>
-                                <li><a href="<?php echo $this->helper('wishlist')->getAddUrl($_product) ?>" class="link-wishlist"><?php echo $this->__('Add to Wishlist') ?></a></li>
-                            <?php endif; ?>
-                            <?php if($_compareUrl=$this->getAddToCompareUrl($_product)): ?>
-                                <li><span class="separator">|</span> <a href="<?php echo $_compareUrl ?>" class="link-compare"><?php echo $this->__('Add to Compare') ?></a></li>
-                            <?php endif; ?>
-                        </ul>
                     </div>
                 </div>
             </li>

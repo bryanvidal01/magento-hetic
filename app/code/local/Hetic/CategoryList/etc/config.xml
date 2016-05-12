@@ -11,15 +11,11 @@
 		<version>1.0.0</version>
 	</Hetic_CategoryList>
 	<global>
-		<models>
+		<blocks>
 			<categorylist>
-				<class>Hetic_CategoryList_Model</class>
+				<class>Hetic_CategoryList_Block</class>
 			</categorylist>
-		</models>
-		<helpers>
-			<categorylist>
-				<class>Hetic_CategoryList_Helper</class>
-			</categorylist>
-		</helpers>
+		</blocks>
+
 	</global>
 </config>

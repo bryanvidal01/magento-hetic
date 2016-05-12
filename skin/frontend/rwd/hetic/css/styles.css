@@ -1131,6 +1131,7 @@ a.button:hover {
  * Breadcrumbs
  */
 .breadcrumbs {
+  display:none;
   overflow: hidden;
   margin: -15px 0 15px;
 }
@@ -1287,9 +1288,7 @@ a.button:hover {
 .main-container,
 .footer-container {
   position: relative;
-  max-width: 1260px;
   margin: 0 auto;
-  padding: 15px;
 }
 .main-container:after,
 .footer-container:after {
@@ -1301,7 +1300,6 @@ a.button:hover {
 @media only screen and (min-width: 480px) {
   .main-container,
   .footer-container {
-    padding: 30px;
   }
 }
 .footer-container {
@@ -9453,7 +9451,10 @@ div.paypal-logo span > img {
 /* ============================================ *
  * CMS Pages
  * ============================================ */
-.cms-page-view .page-title h1,
+.cms-page-view .page-title h1{
+  display:none;
+}
+
 .cms-page-view .page-title h3,
 .cms-page-view .page-head h1,
 .cms-page-view .page-head h3,
