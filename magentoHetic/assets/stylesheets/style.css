@@ -8853,15 +8853,23 @@ input[type="text"]:focus {
   background: url("http://66.media.tumblr.com/dfe35d837a3d6a032aa20d01d71bf48f/tumblr_o1guacvK581slhhf0o1_1280.jpg");
   background-position: center center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 /* line 262, ../sass/style.scss */
+.page-single {
+  background: url("http://66.media.tumblr.com/dfe35d837a3d6a032aa20d01d71bf48f/tumblr_o1guacvK581slhhf0o1_1280.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+/* line 268, ../sass/style.scss */
 .content-page {
   margin-top: 120px;
   margin-bottom: 60px;
 }
 
-/* line 266, ../sass/style.scss */
+/* line 272, ../sass/style.scss */
 .title-page {
   font-size: 50px;
   font-weight: 800;
@@ -8869,7 +8877,7 @@ input[type="text"]:focus {
   color: #fff;
 }
 
-/* line 272, ../sass/style.scss */
+/* line 278, ../sass/style.scss */
 .description-page {
   color: #fff;
   margin-top: 8px;
@@ -8877,7 +8885,7 @@ input[type="text"]:focus {
   padding-left: 25px;
   margin-bottom: 40px;
 }
-/* line 278, ../sass/style.scss */
+/* line 284, ../sass/style.scss */
 .description-page:before {
   content: '';
   width: 20px;
@@ -8889,11 +8897,11 @@ input[type="text"]:focus {
   top: 50%;
 }
 
-/* line 289, ../sass/style.scss */
+/* line 295, ../sass/style.scss */
 .article {
   text-decoration: none;
 }
-/* line 292, ../sass/style.scss */
+/* line 298, ../sass/style.scss */
 .article .img-article {
   overflow: hidden;
   height: 360px;
@@ -8902,25 +8910,25 @@ input[type="text"]:focus {
   transition: .5s;
   -webkit-transition: .5s;
 }
-/* line 300, ../sass/style.scss */
+/* line 306, ../sass/style.scss */
 .article .img-article.light {
   height: 265px;
   margin-bottom: 30px;
 }
-/* line 303, ../sass/style.scss */
+/* line 309, ../sass/style.scss */
 .article .img-article.light .title-category {
   font-size: 16px;
 }
-/* line 307, ../sass/style.scss */
+/* line 313, ../sass/style.scss */
 .article .img-article.big {
   height: 460px;
   margin-bottom: 30px;
 }
-/* line 310, ../sass/style.scss */
+/* line 316, ../sass/style.scss */
 .article .img-article.big .title-category {
   font-size: 16px;
 }
-/* line 315, ../sass/style.scss */
+/* line 321, ../sass/style.scss */
 .article .img-article:after {
   content: '';
   position: absolute;
@@ -8931,7 +8939,7 @@ input[type="text"]:focus {
   left: 0;
   opacity: .4;
 }
-/* line 326, ../sass/style.scss */
+/* line 332, ../sass/style.scss */
 .article .img-article img {
   height: 100%;
   position: absolute;
@@ -8941,27 +8949,27 @@ input[type="text"]:focus {
   transition: .5s;
   -webkit-transition: .5s;
 }
-/* line 337, ../sass/style.scss */
+/* line 343, ../sass/style.scss */
 .article:hover {
   text-decoration: none;
   color: #222;
 }
-/* line 341, ../sass/style.scss */
+/* line 347, ../sass/style.scss */
 .article:hover .img-article {
   border: 10px solid rgba(255, 255, 255, 0.5);
 }
-/* line 343, ../sass/style.scss */
+/* line 349, ../sass/style.scss */
 .article:hover .img-article img {
   transform: translateX(-50%) scale(1.05);
   -webkit-transform: translateX(-50%) scale(1.05);
 }
-/* line 349, ../sass/style.scss */
+/* line 355, ../sass/style.scss */
 .article:hover .title-category .price {
   opacity: .9;
   transform: translateY(0);
   -webkit-transform: translateY(0);
 }
-/* line 357, ../sass/style.scss */
+/* line 363, ../sass/style.scss */
 .article .title-category {
   text-align: center;
   color: #fff;
@@ -8975,7 +8983,7 @@ input[type="text"]:focus {
   transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
 }
-/* line 370, ../sass/style.scss */
+/* line 376, ../sass/style.scss */
 .article .title-category .price {
   font-size: 12px;
   margin-top: 8px;
@@ -8990,13 +8998,13 @@ input[type="text"]:focus {
   -webkit-transform: translateY(5px);
 }
 
-/* line 386, ../sass/style.scss */
+/* line 392, ../sass/style.scss */
 .description-single {
   color: #fff;
   line-height: 28px;
 }
 
-/* line 391, ../sass/style.scss */
+/* line 397, ../sass/style.scss */
 .price-single {
   text-align: right;
   text-transform: uppercase;
@@ -9004,7 +9012,7 @@ input[type="text"]:focus {
   margin-top: 30px;
 }
 
-/* line 397, ../sass/style.scss */
+/* line 403, ../sass/style.scss */
 .addtocart {
   background: rgba(237, 138, 70, 0.8);
   padding: 7px 30px;
@@ -9013,21 +9021,21 @@ input[type="text"]:focus {
   font-size: 14px;
   margin-top: 10px;
 }
-/* line 405, ../sass/style.scss */
+/* line 411, ../sass/style.scss */
 .addtocart:hover {
   text-decoration: none;
   color: #fff;
   background: #cf7f3f;
 }
 
-/* line 411, ../sass/style.scss */
+/* line 417, ../sass/style.scss */
 .info {
   margin-top: 30px;
   font-weight: 800;
   text-transform: uppercase;
 }
 
-/* line 418, ../sass/style.scss */
+/* line 424, ../sass/style.scss */
 .content-page h3 {
   font-size: 24px;
   font-weight: 800;
@@ -9035,14 +9043,14 @@ input[type="text"]:focus {
   margin-bottom: 30px;
 }
 
-/* line 426, ../sass/style.scss */
+/* line 432, ../sass/style.scss */
 #map {
   width: 100%;
-  height: 600px;
+  height: 500px;
   background: #222;
 }
 
-/* line 432, ../sass/style.scss */
+/* line 438, ../sass/style.scss */
 .search input[type="text"] {
   background-color: rgba(255, 255, 255, 0.2);
   background-image: url("../images/search.png");
@@ -9054,43 +9062,43 @@ input[type="text"]:focus {
   padding-left: 15px;
   color: #fff;
 }
-/* line 444, ../sass/style.scss */
+/* line 450, ../sass/style.scss */
 .search ::-webkit-input-placeholder {
   color: #fff;
 }
-/* line 448, ../sass/style.scss */
+/* line 454, ../sass/style.scss */
 .search :-moz-placeholder {
   /* Firefox 18- */
   color: #fff;
 }
-/* line 452, ../sass/style.scss */
+/* line 458, ../sass/style.scss */
 .search ::-moz-placeholder {
   /* Firefox 19+ */
   color: #fff;
 }
-/* line 456, ../sass/style.scss */
+/* line 462, ../sass/style.scss */
 .search :-ms-input-placeholder {
   color: #fff;
 }
 
-/* line 461, ../sass/style.scss */
+/* line 467, ../sass/style.scss */
 ::-webkit-input-placeholder {
   color: #555;
 }
 
-/* line 465, ../sass/style.scss */
+/* line 471, ../sass/style.scss */
 :-moz-placeholder {
   /* Firefox 18- */
   color: #555;
 }
 
-/* line 469, ../sass/style.scss */
+/* line 475, ../sass/style.scss */
 ::-moz-placeholder {
   /* Firefox 19+ */
   color: #555;
 }
 
-/* line 473, ../sass/style.scss */
+/* line 479, ../sass/style.scss */
 :-ms-input-placeholder {
   color: #555;
 }

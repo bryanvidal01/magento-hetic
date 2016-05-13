@@ -48,5 +48,13 @@
         </div>
     </div>
 </footer>
+
+
+<script type="text/javascript"
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIhCvJodGnghKwbJ6hDMj1PG3TNM2dlrk&libraries=geometry">
+</script>
+<script type="text/javascript"
+  src="assets/js/app.js">
+</script>
 </body>
 </html>
