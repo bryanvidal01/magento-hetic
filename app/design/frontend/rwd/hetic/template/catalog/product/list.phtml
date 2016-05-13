@@ -35,7 +35,9 @@
 <div class="page-archive">
     <header>
         <div class="logo">
-            <img src="<?php echo $this->getSkinUrl('images/logo.png'); ?>" alt="" />
+            <a href="<?php echo $this->getUrl('')?>">
+                <img src="<?php echo $this->getSkinUrl('images/logo.png'); ?>" alt="" />
+            </a>
         </div>
         <div class="links">
             <div class="point-partners">
@@ -178,7 +180,7 @@
                                         <?php if($_product->isSaleable() && !$_product->canConfigure()): ?>
                                             <button type="button" title="<?php echo $this->__('Add to Cart') ?>" class="button btn-cart" onclick="setLocation('<?php echo $this->getAddToCartUrl($_product) ?>')"><span><span><?php echo $this->__('Add to Cart') ?></span></span></button>
                                         <?php elseif($_product->isSaleable()): ?>
-                                            <a title="<?php echo $this->__('View Details') ?>" class="button" href="<?php echo $_product->getProductUrl() ?>"><?php echo $this->__('View Details') ?></a>
+                                            
                                         <?php else: ?>
                                             <p class="availability out-of-stock"><span><?php echo $this->__('Out of stock') ?></span></p>
                                         <?php endif; ?>
