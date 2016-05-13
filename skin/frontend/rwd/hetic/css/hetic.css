@@ -9094,3 +9094,22 @@ input[type="text"]:focus {
 :-ms-input-placeholder {
   color: #555;
 }
+
+.category-title{
+  display:none;
+}
+
+.category-description{
+  display:none;
+}
+
+.add-to-links{
+  display:none;
+}
+
+.sharing-links{
+  display: none;
+}
+
+.required{
+display:none;}

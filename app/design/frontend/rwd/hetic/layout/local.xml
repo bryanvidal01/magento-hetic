@@ -19,8 +19,12 @@
 	                <!-- Add stylesheets and js custom -->
 	                <action method="addLinkRel"><rel>stylesheet</rel><href>https://fonts.googleapis.com/css?family=Open+Sans:100,400,700,600</href></action> 
 	                <action method="addItem"><type>skin_css</type><name>css/hetic.css</name></action>            
-		     	</reference>                
-		     </reference>
+		     	</reference>  
+	     	</reference>              
 	</default>
-
+	<catalog_category_default>
+	        <reference name="product_list">
+            	<block type="core/template" name="top.search" as="topSearch" template="catalogsearch/form.mini.phtml"/>
+        	</reference>
+	</catalog_category_default>
 </layout>

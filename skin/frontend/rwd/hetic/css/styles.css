@@ -496,12 +496,10 @@ textarea {
 }
 
 a {
-  color: #3399cc;
   text-decoration: none;
 }
 
 a:hover {
-  color: #2e8ab8;
   text-decoration: underline;
 }
 
@@ -523,7 +521,6 @@ ul {
 h1, .h1 {
   margin: 0;
   margin-bottom: 0.7em;
-  color: #3399cc;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
   font-size: 28px;
   font-weight: 400;
@@ -535,7 +532,6 @@ h1, .h1 {
 
 h2, .h2 {
   margin: 0;
-  margin-bottom: 0.5em;
   color: #636363;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
   font-size: 24px;
@@ -549,7 +545,6 @@ h2, .h2 {
 h3, .h3 {
   margin: 0;
   margin-bottom: 10px;
-  color: #636363;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
@@ -615,9 +610,6 @@ h6, .h6 {
   display: none;
 }
 
-.availability.in-stock {
-  color: #11b400;
-}
 
 .availability.available-soon,
 .availability.out-of-stock {
@@ -1746,7 +1738,6 @@ a.button:hover {
 }
 
 .price-box .price {
-  color: #3399cc;
   font-size: 16px;
 }
 
@@ -4949,7 +4940,6 @@ p.product-name a:hover {
 }
 .product-view .product-shop .product-name .h1,
 .product-view .product-img-box .product-name h1 {
-  color: #3399cc;
   margin-bottom: 10px;
   border: 0;
 }
@@ -5589,7 +5579,6 @@ p.product-name a:hover {
   width: 100%;
   margin: 10px 0 0;
   padding: 10px 15px 15px;
-  border: 1px solid #cccccc;
   clear: both;
   position: relative;
 }
@@ -5706,9 +5695,7 @@ p.product-name a:hover {
 }
 
 .product-options-bottom {
-  background-color: #f4f4f4;
   padding: 15px 20px;
-  border: 1px solid #cccccc;
   border-top: 0;
   margin-bottom: 10px;
 }
